@@ -1,6 +1,7 @@
 # tiny-toy-cars - team project
 
 Toy cars simulation project using C++
+
 Supervised by Prof. [Benoit Piranda](https://www.femto-st.fr/fr/personnel-femto/bpiranda)
 
 Project Demo: https://www.youtube.com/watch?v=W3hIzoKmmqU
