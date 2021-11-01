@@ -29,7 +29,7 @@ Moving the cars on trajectory
 Car orientation using angle
 
 
-*Bugs to fix:
+*Bugs to fix:*
 
-*Need to fix the curve animation between the beginning and the destination. (fixed)
-*Need to fix the border because of points with negative values in the Voronoi diagram. (fixed)
+*Need to fix the curve animation between the beginning and the destination. (fixed)*
+*Need to fix the border because of points with negative values in the Voronoi diagram. (fixed)*
